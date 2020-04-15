@@ -13,18 +13,18 @@
 
 ![movie3](https://user-images.githubusercontent.com/45098599/79384236-1c929300-7f84-11ea-974b-633250f2bf63.png)
 
-# Installation
-# Clone the repo and cd into it
-# composer install
-# Rename or copy .env.example file to .env
-# Set your TMDB_TOKEN in your .env file. You can get an API key here. Make sure to use the "API Read Access Token (v4 auth)" from the TMDb dashboard.
-# php artisan key:generate
-# php artisan serve or use Laravel Valet or Laravel Homestead
-# Visit localhost:8000 in your browser
-# Starting from a particular point
-# If you would like to follow along and start from a particular point, follow these instructions. You can choose any point by replacing the hash . The commits correspond to the different video parts (mostly).
+#### Installation
+#### Clone the repo and cd into it
+#### composer install
+#### Rename or copy .env.example file to .env
+#### Set your TMDB_TOKEN in your .env file. You can get an API key here. Make sure to use the "API Read Access Token (v4 auth)" from the TMDb dashboard.
+#### php artisan key:generate
+#### php artisan serve or use Laravel Valet or Laravel Homestead
+#### Visit localhost:8000 in your browser
+#### Starting from a particular point
+#### If you would like to follow along and start from a particular point, follow these instructions. You can choose any point by replacing the hash . The commits correspond to the different video parts (mostly).
 
-# Clone the repo and cd into it
+#### Clone the repo and cd into it
 
 
 ## All code maintan by kishan maurya, I love Coding, Happy Coding
